@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BookHub</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="favourites">Favourites</string>
+    <string name="Profile">Profile</string>
+    <string name="about_app">About App</string>
+    <string name="navigation_drawer">Navigation Drawer</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard_fragment">Dashboard Fragment</string>
+    <string name="favourites_fragment">Favourites Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="about_app_fragment">About App Fragment</string>
+    <string name="name_anant_kanchan">NAME : ANANT KANCHAN</string>
+    <string name="email_anant4265_gmail_com">EMAIL : anant4265@gmail.com</string>
+    <string name="mobile_9454833234">MOBILE : 9454833234</string>
+    <string name="address_s2_292_eldeco">ADDRESS : S2/292 ELDECO</string>
+    <string name="list_item">List Item</string>
+    <string name="action_sort">Sort</string>
+
+
+</resources>

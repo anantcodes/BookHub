@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E3F2FD"
+    tools:context=".SplashActivity">
+
+
+
+    <TextView
+        android:id="@+id/txtWel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="85sp"
+        android:text="WELCOME"/>
+
+    <TextView
+        android:id="@+id/txtTo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="85sp"
+        android:layout_below="@+id/txtWel"
+       android:layout_centerHorizontal="true"
+        android:text="TO"/>
+
+    <TextView
+        android:id="@+id/txtBook"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="85sp"
+        android:layout_below="@+id/txtTo"
+        android:text="BookHub"/>
+
+
+    <ImageView
+        android:id="@+id/imgLogo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/book_icon"
+        android:layout_below="@+id/txtBook"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>
